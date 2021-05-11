@@ -66,3 +66,7 @@ If a number is a multiple of 5 and 7 print “FizzBuzz,” if a number is a mult
 
 ## EveryFirstLetter
 This program showcases a function that when called prints the first letter of every word in a string.
+
+
+## IsStringUppercase
+This program takes user input name and determines if the first letter in the string is uppercase.
