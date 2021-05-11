@@ -42,3 +42,9 @@ The for loop will initialize "i" = 2 and will increment until "i" is equal to th
 The declaration of int current is set equal to firstStep + secondStep.
 Then firstStep will be set equal to the value of secondStep and secondStep will be set equal to the value of current until the loop is satisfied.
 Once the loop is satisfied, the latest value of secondStep will be returned giving the number of distinct ways you can climb the staircase given "n" steps.
+
+
+
+
+## SortingAndDupes
+This program takes a user input array size and elements and outputs the elements in assending order.
