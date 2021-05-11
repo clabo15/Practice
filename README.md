@@ -48,3 +48,21 @@ Once the loop is satisfied, the latest value of secondStep will be returned givi
 
 ## SortingAndDupes
 This program takes a user input array size and elements and outputs the elements in assending order.
+
+
+
+## Palindrome Problem
+A string is a palindrome if it can be read the same from left to right.
+
+
+
+## Fibonacci
+An ordering of numbers where each number is the sum of the preceding two.
+
+
+
+## Fiz-Buzz
+If a number is a multiple of 5 and 7 print “FizzBuzz,” if a number is a multiple of just 5 print “fizz,” if an number is a multiple of just 7 print “buzz,” if it is neither print the number.
+
+## EveryFirstLetter
+This program showcases a function that when called prints the first letter of every word in a string.
